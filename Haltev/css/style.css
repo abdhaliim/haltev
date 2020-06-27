@@ -1,0 +1,15 @@
+
+    .warna {
+            color: red;
+        }
+    #warna {
+            color: rgb(77, 111, 212);
+            text-align: center;
+            
+        }
+    .tombol {
+        color: rgb(15, 2, 11);
+        background-color: rgb(114, 233, 140);
+        border-radius: 21px;
+      
+    }
